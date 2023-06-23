@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Any-Time-Quiz/static/css/main.cf7cdb52.css",
-    "main.js": "/Any-Time-Quiz/static/js/main.06231900.js",
+    "main.js": "/Any-Time-Quiz/static/js/main.16a70c37.js",
     "static/js/787.83904489.chunk.js": "/Any-Time-Quiz/static/js/787.83904489.chunk.js",
     "static/media/art.jpg": "/Any-Time-Quiz/static/media/art.28c2d758e961ec0b899a.jpg",
     "static/media/sport.jpg": "/Any-Time-Quiz/static/media/sport.f8e02680e8b9f39e81b3.jpg",
@@ -12,11 +12,11 @@
     "static/media/vehicle.jpeg": "/Any-Time-Quiz/static/media/vehicle.b74143bf5e835fc0ace2.jpeg",
     "index.html": "/Any-Time-Quiz/index.html",
     "main.cf7cdb52.css.map": "/Any-Time-Quiz/static/css/main.cf7cdb52.css.map",
-    "main.06231900.js.map": "/Any-Time-Quiz/static/js/main.06231900.js.map",
+    "main.16a70c37.js.map": "/Any-Time-Quiz/static/js/main.16a70c37.js.map",
     "787.83904489.chunk.js.map": "/Any-Time-Quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7cdb52.css",
-    "static/js/main.06231900.js"
+    "static/js/main.16a70c37.js"
   ]
 }
