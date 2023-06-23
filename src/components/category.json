@@ -1,0 +1,42 @@
+[
+    {
+        "category":"Science & Nature",
+        "id":17
+    },
+    {
+        "category":"Sports",
+        "id":21
+    },
+    {
+        "category":"Computers",
+        "id":18
+    },
+    {
+        "category":"History",
+        "id":23
+    },
+    {
+        "category":"General Knowledge",
+        "id":9
+    },
+    {
+        "category":"Art",
+        "id":25
+    },
+    {
+        "category":"Geography",
+        "id":22
+    },
+    {
+        "category":"Japanese Anime and Manga",
+        "id":31
+    },
+    {
+        "category":"Vehicles",
+        "id":28
+    },
+    {
+        "category":"Music",
+        "id":12
+    }
+]

@@ -1,0 +1,180 @@
+body {
+  background-color: rgb(253, 255, 201);
+}
+
+#body {
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#heading h2 {
+  font-size: 2em;
+  color: rgb(39, 135, 135);
+  cursor: pointer;
+}
+
+#searchbar {
+  border-radius: 10px;
+  background-color: rgb(180, 254, 223);
+  height: 15vh;
+  display: flex;
+}
+#searchbar #search {
+  width: 15%;
+  height: 5vh;
+  top: 5vh;
+  left: 4vw;
+  position: relative;
+  border: none;
+  border-radius: 5px;
+}
+#searchbar #drop {
+  width: 20%;
+  top: 5vh;
+  height: 5vh;
+  left: 6vw;
+  position: relative;
+}
+#searchbar #drop #category {
+  width: 100%;
+  height: 100%;
+  border: none;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+#searchbar #drop #category:focus {
+  outline: none;
+}
+#searchbar #drop #drop-down {
+  z-index: 2;
+  position: relative;
+  background-color: rgb(233, 255, 38);
+  width: 101%;
+}
+#searchbar #drop #drop-down .items {
+  height: 4vh;
+  line-height: 4vh;
+  padding: 5px;
+  cursor: pointer;
+}
+#searchbar #drop #drop-down .items:hover {
+  background-color: rgb(123, 123, 123);
+}
+#searchbar #number {
+  width: 20%;
+  height: 5vh;
+  top: 5vh;
+  left: 8vw;
+  position: relative;
+  border: none;
+  border-radius: 5px;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+#main::-webkit-scrollbar, body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+#main {
+  overflow-y: scroll;
+  height: 70vh;
+  margin-top: 5vh;
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+#main .card {
+  height: 28vh;
+  background-color: white;
+  margin-bottom: 5vh;
+  border-radius: 10px;
+  display: flex;
+  overflow: hidden;
+}
+#main .card img {
+  height: 80%;
+  position: relative;
+  top: 10%;
+  left: 1vw;
+  margin-right: 2vw;
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+}
+#main .card .card-content {
+  background-color: aquamarine;
+  width: 87%;
+  padding: 2%;
+}
+#main .card .card-content > div {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1%;
+}
+#main .card .card-content > div button {
+  background-color: red;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 600;
+  border: none;
+  padding: 0.6%;
+  width: 7%;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#quiz {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+#quiz .box {
+  background-color: aquamarine;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+#quiz #result {
+  display: none;
+}
+#quiz #timer {
+  position: fixed;
+  top: 0;
+  z-index: 3;
+  right: 100px;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#submit {
+  background-color: rgb(138, 214, 255);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 1.2em;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  cursor: pointer;
+}
+#submit:hover {
+  background-color: greenyellow;
+  color: black;
+}
+
+#quit {
+  background-color: red;
+  color: black;
+  cursor: pointer;
+  padding: 2px 5px;
+  font-size: 1.1em;
+  border-radius: 5px;
+  border: none;
+}
+#quit:hover {
+  color: white;
+}/*# sourceMappingURL=style.css.map */
