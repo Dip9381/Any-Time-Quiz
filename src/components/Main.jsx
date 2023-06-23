@@ -3,7 +3,7 @@ import Heading from "./Heading.jsx";
 import Search from "./Search.jsx";
 import Body from "./Body.jsx";
 import { useState } from "react";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { HashRouter, Route, Routes } from "react-router-dom";
 import Quiz from "./Quiz.jsx";
 import { useContext } from "react";
 import { IdContext } from "./context/idcontext.jsx";
@@ -18,7 +18,7 @@ const Main = () => {
   },[data])
   return (
     <>
-      <BrowserRouter>
+      <HashRouter>
         <Routes>
           <Route
             path="/"
@@ -38,7 +38,7 @@ const Main = () => {
             </>}>
           </Route>
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </>
   );
 };
