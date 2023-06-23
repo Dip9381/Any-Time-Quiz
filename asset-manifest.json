@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Dip9381.github.io/Any-Time-Quiz/static/css/main.cf7cdb52.css",
-    "main.js": "/Dip9381.github.io/Any-Time-Quiz/static/js/main.be06ebcd.js",
-    "static/js/787.83904489.chunk.js": "/Dip9381.github.io/Any-Time-Quiz/static/js/787.83904489.chunk.js",
-    "static/media/art.jpg": "/Dip9381.github.io/Any-Time-Quiz/static/media/art.28c2d758e961ec0b899a.jpg",
-    "static/media/sport.jpg": "/Dip9381.github.io/Any-Time-Quiz/static/media/sport.f8e02680e8b9f39e81b3.jpg",
-    "static/media/anime.jpeg": "/Dip9381.github.io/Any-Time-Quiz/static/media/anime.47b688ac6e01f3dc4bc6.jpeg",
-    "static/media/nature.jpg": "/Dip9381.github.io/Any-Time-Quiz/static/media/nature.bb6b3eb13f0fb7223618.jpg",
-    "static/media/GK.jpeg": "/Dip9381.github.io/Any-Time-Quiz/static/media/GK.a590372374c343c3a699.jpeg",
-    "static/media/geography.jpeg": "/Dip9381.github.io/Any-Time-Quiz/static/media/geography.20c6fe99d837bca47822.jpeg",
-    "static/media/vehicle.jpeg": "/Dip9381.github.io/Any-Time-Quiz/static/media/vehicle.b74143bf5e835fc0ace2.jpeg",
-    "index.html": "/Dip9381.github.io/Any-Time-Quiz/index.html",
-    "main.cf7cdb52.css.map": "/Dip9381.github.io/Any-Time-Quiz/static/css/main.cf7cdb52.css.map",
-    "main.be06ebcd.js.map": "/Dip9381.github.io/Any-Time-Quiz/static/js/main.be06ebcd.js.map",
-    "787.83904489.chunk.js.map": "/Dip9381.github.io/Any-Time-Quiz/static/js/787.83904489.chunk.js.map"
+    "main.css": "/dip9381.github.io/Any-Time-Quiz/static/css/main.cf7cdb52.css",
+    "main.js": "/dip9381.github.io/Any-Time-Quiz/static/js/main.de1e505a.js",
+    "static/js/787.83904489.chunk.js": "/dip9381.github.io/Any-Time-Quiz/static/js/787.83904489.chunk.js",
+    "static/media/art.jpg": "/dip9381.github.io/Any-Time-Quiz/static/media/art.28c2d758e961ec0b899a.jpg",
+    "static/media/sport.jpg": "/dip9381.github.io/Any-Time-Quiz/static/media/sport.f8e02680e8b9f39e81b3.jpg",
+    "static/media/anime.jpeg": "/dip9381.github.io/Any-Time-Quiz/static/media/anime.47b688ac6e01f3dc4bc6.jpeg",
+    "static/media/nature.jpg": "/dip9381.github.io/Any-Time-Quiz/static/media/nature.bb6b3eb13f0fb7223618.jpg",
+    "static/media/GK.jpeg": "/dip9381.github.io/Any-Time-Quiz/static/media/GK.a590372374c343c3a699.jpeg",
+    "static/media/geography.jpeg": "/dip9381.github.io/Any-Time-Quiz/static/media/geography.20c6fe99d837bca47822.jpeg",
+    "static/media/vehicle.jpeg": "/dip9381.github.io/Any-Time-Quiz/static/media/vehicle.b74143bf5e835fc0ace2.jpeg",
+    "index.html": "/dip9381.github.io/Any-Time-Quiz/index.html",
+    "main.cf7cdb52.css.map": "/dip9381.github.io/Any-Time-Quiz/static/css/main.cf7cdb52.css.map",
+    "main.de1e505a.js.map": "/dip9381.github.io/Any-Time-Quiz/static/js/main.de1e505a.js.map",
+    "787.83904489.chunk.js.map": "/dip9381.github.io/Any-Time-Quiz/static/js/787.83904489.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf7cdb52.css",
-    "static/js/main.be06ebcd.js"
+    "static/js/main.de1e505a.js"
   ]
 }
